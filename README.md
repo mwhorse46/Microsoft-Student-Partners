@@ -21,7 +21,7 @@ This is the unofficial website for the Microsoft Student Partners
 
 1.  Clone the repository
     ```bash
-    $ git clone https://github.com/ramanaditya/Microsoft-Student-Partners
+    $ git clone https://github.com/mwhorse46/Microsoft-Student-Partners
     ```
 
 2.  Create a virtual environment using virtualenv or venv.
